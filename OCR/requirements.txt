@@ -1,0 +1,8 @@
+torch>=2.0
+torchvision>=0.15
+Pillow>=9.0
+numpy>=1.23
+tqdm>=4.64
+editdistance>=0.6
+pytesseract>=0.3.10
+opencv-python-headless>=4.7

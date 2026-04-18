@@ -1,0 +1,11 @@
+A new offline handwritten database for
+guage, which contains full Spanish senten
+been developed: the Spartacus database |
+Spanish Restricted-domain Task of Cursiv
+were two main reasons for creating this co
+most databases do not contain Spanish sente
+Spanish is a widespread major language. A
+reason was to create a corpus from semanti
+These tasks are commonly used in practice
+of linguistic knowledge beyond the lexicon |
+nition process.

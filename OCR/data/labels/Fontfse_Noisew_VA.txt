@@ -1,0 +1,12 @@
+There are several classic spatial filters for reducing or elimin
+from images. The mean filter, the median filter and the closing o
+used. The mean filter is a lowpass or smoothing filter that replace
+neighborhood mean. It reduces the image noise but blurs the imas
+calculates the median of the pixel neighborhood for each pixel, th
+effect. Finally, the opening closing filter is a mathematical morphc
+the same number of erosion and dilation morphological operations
+objects from images.
+
+The main goal was to train a neural network in a supervised
+image from a noisy one. In this particular case, it was much easier
+image from a clean one than to clean a subset of noisy images.

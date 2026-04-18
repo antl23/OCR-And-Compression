@@ -1,0 +1,11 @@
+There are several classic spatic
+or eliminating high frequency nots
+The mean filter, the median filter
+opening filter are frequently usea
+47s a lowpass or smoothing filter t
+pizel values with the nertghborhooa
+the tmage noise but blurs the imag
+filter calculates the median of th
+for each pixel, thereby reducing t
+Finally, the opening closing filte
+morphological filter that combines

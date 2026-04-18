@@ -1,0 +1,15 @@
+There exist several methods to design forms with fic
+instance, fields may be surrounded by bounding box
+or by guiding rulers. These methods specify where tc
+minimize the effect of skew and overlapping with otl
+These guides can be located on a separate sheet of
+below the form or they can be printed directly on 1
+guides on a separate sheet is much better from the
+quality of the scanned image, but requires giving w
+more importantly, restricts its use to tasks where th
+is used. Guiding rulers printed on the form are moi
+this reason. Light rectangles can be removed more e
+dark lines whenever the handwritten text touches the
+other practical issues must be taken into account: 7
+these light rectangles is in a different color (ie. li
+this approach is more expensive than printing gray 1

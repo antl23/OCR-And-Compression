@@ -1,0 +1,11 @@
+A new offline handwritten database for
+guage, which contains full Spanish senter
+been developed: the Spartacus database (
+Spanish Restricted-domain Task of Curst
+were two main reasons for creating this
+all, most databases do not contain Spanis
+though Spanish is a widespread major la
+amportant reason was to create a corpu:
+restricted tasks. These tasks are commonl
+and allow the use of linguistic knowledge b
+level in the recognition process.

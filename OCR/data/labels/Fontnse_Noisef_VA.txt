@@ -1,0 +1,16 @@
+There are several classic spatial filters for reducing «
+quency noise from images. The mean filter, the media
+opening filter are frequently used. The mean filter is a
+filter that replaces the pixel values with the neighborhoo
+image noise but blurs the image edges. The median filte
+of the pixel neighborhood for each pixel, thereby reduc
+Finally, the opening closing filter is a mathematical m
+combines the same number of erosion and dilation mort
+order to eliminate small objects from images.
+
+The main goal was to train a neural network in a supe
+a clean image from a noisy one. In this particular case,
+obtain a simulated noisy image from a clean one thai
+noisy images. The process for obtaining simulated no
+scheme: This process requires images of the backgrout
+the acquisition forms, which were obtained by printing |

@@ -1,0 +1,12 @@
+A new offline handwritten database for the Spanish
+full Spanish sentences, has recently been developed:
+stands for Spanish Restricted-domain Task of Cursive S$
+main reasons for creating this corpus. First of all,
+Spanish sentences, even though Spanish is a widespread
+amportant reason was to create a corpus from semantic-—
+tasks are commonly used in practice and allow the use
+beyond the lexicon level in the recognition process.
+
+As the Spartacus database consisted mainly of short
+contain long paragraphs, the writers were asked to cop
+fized places: dedicated one-line fields in the forms.

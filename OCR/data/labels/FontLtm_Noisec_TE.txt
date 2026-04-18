@@ -1,0 +1,11 @@
+A new offline handwritten databa:
+language, which contains full Spani
+recently been developed: the Spart
+stands for Spanish Restricted-doma:
+Script). There were two main reasc
+this corpus. First of all, most dé
+contain Spanish sentences, even th«
+a widespread major language. Anotl
+was to create a corpus from semant:
+These tasks are commonly used in pi
+the use of linguistic knowledge bey

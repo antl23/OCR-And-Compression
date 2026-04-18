@@ -1,0 +1,11 @@
+There exist several methods to design forms with fields to
+fields may be surrounded by bounding boxes, by light rectangles o
+methods specify where to write and, therefore, minimize the effe
+with other parts of the form. These guides can be located on a s
+is located below the form or they can be printed directly on the f
+a separate sheet 1s much better from the point of view of the que
+but requires giving more instructions and, more importantly, rest
+this type of acquisition is used. Guiding rulers printed on the
+used for this reason. Light rectangles can be removed more easily
+whenever the handwritten text touches the rulers. Nevertheless, |
+be taken into account: The best way to print these light rectan,

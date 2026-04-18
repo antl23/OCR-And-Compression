@@ -1,0 +1,16 @@
+A new offline handwritten database for the
+which contains full Spanish sentences, has re
+the Spartacus database (which stands for Spar
+Task of Cursive Script). There were two mair
+this corpus. First of all, most databases dc
+sentences, even though Spanish is a widesprez
+important reason was to create a corpus from
+tasks. These tasks are commonly used in prac
+use of linguistic knowledge beyond the lexic«
+process.
+
+As the Spartacus database consisted mainl}j
+and did not contain long paragraphs, the writ
+a set of sentences in fixed places: dedicate
+the forms. Next figure shows one of the forn
+process. These forms also contain a brief gé«

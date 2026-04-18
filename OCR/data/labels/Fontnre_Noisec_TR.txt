@@ -1,0 +1,15 @@
+There exist several methods to design forms with
+For instance, fields may be surrounded by bounding bo.
+or by guiding rulers. These methods specify where tc
+minimize the effect of skew and overlapping with ot!
+These guides can be located on a separate sheet of pape
+the form or they can be printed directly on the form.
+a separate sheet 1s much better from the point of vier
+scanned image, but requires giving more instructions a
+restricts its use to tasks where this type of acquisit
+rulers printed on the form are more commonly used
+rectangles can be removed more easily with filters tha
+the handwritten text touches the rulers. Nevertheless,
+must be taken into account: The best way to print
+is in a different color (i.e. light yellow); however, ‘
+expensive than vrinting gray rectangles with black-an
