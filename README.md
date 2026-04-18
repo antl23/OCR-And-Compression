@@ -73,6 +73,40 @@ curl -s -X POST "http://127.0.0.1:8002/compress" \
   -H "Content-Type: application/json" \
   -d '{"text":"this is a test this is a test this is a test"}' | python3 -m json.tool
 ```
+Example output
+```JSON
+{
+    "original_text": "this is a test this is a test this is a test",
+    "bitstring": "001110100001101000100110100100011100111100010000011110100000001100001110111110100110010111111111100011101111111111011100001110111101101111111010000110011110111011110001111011101101111111",
+    "compressed_bytes_hex": "063a1a2691cf107a030efa65ff8effdc3bdbfa19eef1eedfc0",
+    "metrics": {
+        "original_bits": 352.0,
+        "compressed_bits": 186.0,
+        "compression_ratio": 1.89247311827957,
+        "space_saving": 0.47159090909090906,
+        "entropy_bits_per_symbol": 2.621094451778451,
+        "average_code_length": 4.2272727272727275,
+        "encoding_efficiency": 0.6200438488078056
+    },
+    "alphabet_size": 7,
+    "symbol_count": 44
+}
+```
+
+Decompress Text
+- Use the bitstring returned by /compress.
+```bash
+curl -s -X POST "http://127.0.0.1:8002/decompress" \
+  -H "Content-Type: application/json" \
+  -d '{"bitstring":"001110100001101000100110100100011100111100010000011110100000001100001110111110100110010111111111100011101111111111011100001110111101101111111010000110011110111011110001111011101101111111"}' | python3 -m json.tool
+```
+Example Ouput
+```JSON
+{
+    "bitstring": "001110100001101000100110100100011100111100010000011110100000001100001110111110100110010111111111100011101111111111011100001110111101101111111010000110011110111011110001111011101101111111",
+    "decoded_text": "this is a test this is a test this is a test"
+}
+```
 
 ## Output Fields
 - **`original_text`**: input text given to the service  
