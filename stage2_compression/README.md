@@ -1,5 +1,3 @@
-# OCR-And-Compression
-
 # Stage 2: Adaptive Huffman Compression Microservice
 
 This project implements **Stage 2** of a two-stage neural compression pipeline.  
